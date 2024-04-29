@@ -1,2 +1,2 @@
 # ImageSearch-HistogramIntersection
-Repository for the University of Ottawa's CSI2520 Winter 2024 project on image similarity search using color histogram intersections, showcasing various programming paradigms.
+This repository houses the complete suite of programs for the similarity image search project from the CSI2520 Programming Paradigms course at the University of Ottawa, Winter 2024. It focuses on a search algorithm using color histogram intersections to identify similar images based on visual content. The project explores various programming paradigms, enhancing the understanding and efficiency of image comparison techniques in digital image processing. Languages used: Java, Prolog. Golang, Scheme.
